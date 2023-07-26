@@ -43,7 +43,6 @@ stages:
 Use Case 8
 
 Pre Defined Variables
-
 trigger:
 - master
 
